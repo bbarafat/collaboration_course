@@ -1,0 +1,8 @@
+name: '522'
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - pandas
+  - python
+
